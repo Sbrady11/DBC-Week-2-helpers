@@ -11,3 +11,5 @@ def self.authenticate(username, password)
   user = User.find_by(username: username)
   (user && user.password == password) ? user : nil
 end
+
+# goes in the user model typically
