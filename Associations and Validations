@@ -1,3 +1,6 @@
+https://github.com/nyc-nighthawks-2017/active-record-associations-drill-at-the-races-challenge
+example of associations gone right!
+
 belongs_to :Parent_ID
   - Denotes that the class has ONE parent, as opposed to one to many relationships
 
